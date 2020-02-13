@@ -1,5 +1,5 @@
-<img src="images/neurons.png" width="80">
-<img src="images/sigmoid_normalization.png" width="80">
+<img src="images/neurons.png" width="180">
+<img src="images/sigmoid_normalization.png" width="180">
 
 # Simple Neural Network
 Creating a simple neural network in Python with one input layer (3 inputs) and one output neuron. A neural network with no hidden layers is called a perceptron. 
